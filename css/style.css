@@ -327,7 +327,7 @@ h2.title span{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/profile.jpg");
+    background: url("./images/profile.jpg");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -601,9 +601,12 @@ h2.title span{
 	color: #B9D0E1;
 }
 .contact-form .btn-default{
-	background: #FFFFFF;
-	border: 0px;
-	color: #C80A48;
+	
+background: #FFFFFF;
+	
+border: 0px;
+	
+color: #C80A48;
 }
 
 
